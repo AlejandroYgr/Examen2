@@ -132,13 +132,13 @@ p {
     }
 
     .Inicio,
-    .feedback {
+    .Opiniones {
         display: flex;
         justify-content: space-between;
     }
 
     .Inicio .info,
-    .Inicio .rating {
+    .Inicio .Puntuaciones {
         margin-top: 0;
     }
 
